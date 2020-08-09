@@ -1,0 +1,21 @@
+{
+  "name": "rexbot",
+  "version": "1.0.0",
+  "description": "RexBot is a Twitch chat bot.",
+  "main": "rex.js",
+  "scripts": {
+    "start": "node rex.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jwhett/RexBot"
+  },
+  "keywords": [
+    "twitchtv"
+  ],
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  }
+}
